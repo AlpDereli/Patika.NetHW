@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PatikaOdev1.props" />
+</Project>
